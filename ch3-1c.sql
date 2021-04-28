@@ -1,0 +1,1 @@
+select max(instructor.salary) from dbo.instructor;
