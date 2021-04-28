@@ -1,3 +1,3 @@
 # SQL
-## All the Solutiosn for Problems in DBMS Korth Book.
+## All the Solutions for DBMS Korth Book.
  
